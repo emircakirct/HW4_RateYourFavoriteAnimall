@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HW4_RateYourFavoriteAnimall</string>
+    <string name="animal">Animal</string>
+    <string name="what_is_your_rating">What is your rating</string>
+    <string name="save">SAVE</string>
+    <string name="rating_bar">rating_bar</string>
+    <string name="animal_photo">animal_photo</string>
+    <string name="rabbit_button">rabbit_button</string>
+    <string name="your_rating1">Your rating: ?</string>
+    <string name="your_rating2">Your rating: ?</string>
+    <string name="your_rating3">Your rating: ?</string>
+    <string name="your_rating4">Your rating: ?</string>
+    <string name="rate_your_favorite_animal">Rate Your Favorite Animal</string>
+    <string name="press_on_the_images_below_to_rate_your_favorite_animal">Press on the images below to rate your favorite animal</string>
+    <string name="dog_button">dog_button</string>
+    <string name="cat_button">cat_button</string>
+    <string name="bear_button">bear_button</string>
+</resources>
